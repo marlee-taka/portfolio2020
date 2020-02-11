@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond|Ibarra+Real+Nova&display=swap');
+
+* {
+    font-family: 'Ibarra Real Nova', serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.shopform {
+    outline: none;
+    -webkit-box-shadow: none !important;
+    -moz-box-shadow: none !important;
+    box-shadow: none !important;
+}
+
